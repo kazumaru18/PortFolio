@@ -201,7 +201,7 @@
             <div class="card-area l-flex">
                 <div class="card">
                     <div class="skill-icon_big">
-                      <a href="stopwatch.html"><img src="images/stop.png" alt=""></a>
+                      <a href="stopwatch.php"><img src="images/stop.png" alt=""></a>
                     </div>
                     <div class="skill">
                       <h2 class="skill-title">ストップウォッチ</h2>
@@ -212,7 +212,7 @@
                 </div>
                 <div class="card">
                     <div class="skill-icon_big">
-                      <a href="typing.html"><img src="images/typing.png" alt=""></a>
+                      <a href="typing.php"><img src="images/typing.png" alt=""></a>
                     </div>
                     <div class="skill">
                       <h2 class="skill-title">タイピングゲーム</h2>
@@ -223,7 +223,7 @@
                 </div>
                 <div class="card">
                   <div class="skill-icon_big">
-                    <a href="time.html"><img src="images/time.png" alt=""></a>
+                    <a href="time.php"><img src="images/time.png" alt=""></a>
                   </div>
                   <div class="skill">
                     <h2 class="skill-title">現在時刻</h2>
@@ -234,7 +234,7 @@
                 </div>
                 <div class="card">
                   <div class="skill-icon_big">
-                    <a href="dentaku.html"><img src="images/dentaku.png" alt=""></a>
+                    <a href="dentaku.php"><img src="images/dentaku.png" alt=""></a>
                   </div>
                   <div class="skill">
                     <h2 class="skill-title">電卓</h2>
