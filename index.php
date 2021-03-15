@@ -32,7 +32,7 @@
             <p>初めまして。　戸部 一也　と申します。</p>
             </div>
             <div class="l-flex about-img">
-                <img src="images/kao.png" alt="pro">
+                <img src="images/face.png" alt="pro">
                 <div class="about-table">
                     <table>
                         <tbody>
@@ -154,7 +154,7 @@
                     </div>
                     <div class="skill">
                       <h2 class="skill-title">Java</h2>
-                      <p class="card-text">プログラム言語。<br>
+                      <p class="card-text">プログラミング言語。<br>
                         Javaの基本的な文法＋主要な言語仕様を理解し、有効に活用することができる。基本的なオブジェクト指向の構文を理解し、利用できる。
                       </p>
                     </div>
@@ -165,7 +165,7 @@
                     </div>
                     <div class="skill">
                       <h2 class="skill-title">Python</h2>
-                      <p class="card-text">プログラム言語。<br>
+                      <p class="card-text">プログラミング言語。<br>
                         Pythonの基本的な文法＋主要な言語仕様を理解し、有効に活用することができる。基本的なオブジェクト指向の構文を理解し、利用できる。
                       </p>
                     </div>
@@ -176,7 +176,7 @@
                     </div>
                     <div class="skill">
                       <h2 class="skill-title">PHP</h2>
-                      <p class="card-text">Webサイトに動きをつけるための言語。<br>
+                      <p class="card-text">プログラミング言語。<br>
                         PHPの基本的な文法＋HTMLと連携したプログラミングを理解し、フォームによるデータの受け渡しを活用したプログラムを作成できる。
                       </p>
                     </div>
@@ -201,7 +201,7 @@
             <div class="card-area l-flex">
                 <div class="card">
                     <div class="skill-icon_big">
-                      <a href="stopwatch.html"><img src="images/stop.png" alt=""></a>
+                      <a href="stopwatch.php"><img src="images/stop.png" alt=""></a>
                     </div>
                     <div class="skill">
                       <h2 class="skill-title">ストップウォッチ</h2>
@@ -212,7 +212,7 @@
                 </div>
                 <div class="card">
                     <div class="skill-icon_big">
-                      <a href="typing.html"><img src="images/typing.png" alt=""></a>
+                      <a href="typing.php"><img src="images/typing.png" alt=""></a>
                     </div>
                     <div class="skill">
                       <h2 class="skill-title">タイピングゲーム</h2>
@@ -223,7 +223,7 @@
                 </div>
                 <div class="card">
                   <div class="skill-icon_big">
-                    <a href="time.html"><img src="images/time.png" alt=""></a>
+                    <a href="time.php"><img src="images/time.png" alt=""></a>
                   </div>
                   <div class="skill">
                     <h2 class="skill-title">現在時刻</h2>
@@ -231,7 +231,18 @@
                       現在の時刻をリアルタイムで表記します。
                     </p>
                   </div>
-              </div>
+                </div>
+                <div class="card">
+                  <div class="skill-icon_big">
+                    <a href="dentaku.php"><img src="images/dentaku.png" alt=""></a>
+                  </div>
+                  <div class="skill">
+                    <h2 class="skill-title">電卓</h2>
+                    <p class="card-text">
+                      シンプルな電卓です。
+                    </p>
+                  </div>
+                </div>
             </div>
         </section>
     </main>
